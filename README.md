@@ -1,0 +1,2 @@
+### Hexlet tests and linter status:
+[![Actions Status](https://github.com/TriS1027/python-testing-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/TriS1027/python-testing-project-lvl1/actions)
